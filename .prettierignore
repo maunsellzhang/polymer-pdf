@@ -1,0 +1,9 @@
+node_modules/
+dist/
+release/
+public/pdfjs/
+public/THIRD-PARTY-NOTICES.txt
+output/
+.artifacts/
+.learnings/
+package-lock.json
